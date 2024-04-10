@@ -23,7 +23,7 @@
   "extra": {
     "class": "Installer\\Plugin",
     "branch-alias": {
-      "dev-master": "v0.0.1-alpha"
+      "dev-dev": "v0.0.1-alpha"
     }
   },
   "minimum-stability": "dev",
