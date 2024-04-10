@@ -1,6 +1,6 @@
 {
   "name": "skeleton-app/installer",
-  "description": "Installer",
+  "description": "SkeletonApp Installer",
   "type": "composer-plugin",
   "license": "MIT",
   "authors": [
