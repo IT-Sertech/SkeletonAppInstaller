@@ -1,0 +1,32 @@
+{
+  "name": "skeleton-app/installer",
+  "description": "Installer",
+  "type": "composer-plugin",
+  "license": "MIT",
+  "version": "master",
+  "authors": [
+    {
+      "name": "Sergey Tevs",
+      "email": "sergey@tevs.org"
+    }
+  ],
+  "require": {
+    "composer-plugin-api": "^2.0.0"
+  },
+  "require-dev": {
+    "composer/composer": "^2.0."
+  },
+  "autoload": {
+    "psr-4": {
+      "Installer\\": "src/"
+    }
+  },
+  "extra": {
+    "class": "Installer\\Plugin",
+    "branch-alias": {
+      "dev-master": "master"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": false
+}
