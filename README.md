@@ -1,1 +1,1 @@
-# SkeletonAppInstaller
+# SkeletonApp Installer
