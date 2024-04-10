@@ -3,7 +3,6 @@
   "description": "Installer",
   "type": "composer-plugin",
   "license": "MIT",
-  "version": "master",
   "authors": [
     {
       "name": "Sergey Tevs",
